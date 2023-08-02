@@ -1,0 +1,8 @@
+{
+    "name": "Backlog Notification",
+    "description": "プロジェクトIDを指定するとBacklogに通知を送ります",
+    "iconName": "octicon bell",
+    "categories": [
+        "monitoring"
+    ]
+}
