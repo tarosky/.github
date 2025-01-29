@@ -12,7 +12,9 @@ PHP開発やインフラ構築の豊富な開発経験、技術コミュニテ�
 - 公式リポジトリには掲載していないけれどもGPLライセンスとして公開しているプラグイン（GA=[Generally Available](https://github.com/search?q=topic%3Awordpress-plugin-ga+org%3Atarosky&type=Repositories)）
 - その他、GitHub Actionsなど
 
-ご利用は各リポジトリのライセンスイシューの報告などのコントリビュートをお待ちしております。
+ご利用は各リポジトリのライセンスをご覧ください。WordPress関連は100% GPLを心がけています。
+
+イシューの報告などのコントリビュートをお待ちしております🙏
 
 ## タロスカイで働きませんか？
 
