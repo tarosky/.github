@@ -6,8 +6,12 @@ Common directory for Tarosky Organization
 
 このリポジトリには、以下のテンプレートが含まれています：
 
-- イシューテンプレート: `.github/ISSUE_TEMPLATE/issue_template.md`
-- プルリクエストテンプレート: `.github/PULL_REQUEST_TEMPLATE.md`
+- イシューテンプレート:
+  - `.github/ISSUE_TEMPLATE/generic.md`
+  - `.github/ISSUE_TEMPLATE/infra.md`
+- プルリクエストテンプレート:
+  - `.github/PULL_REQUEST_TEMPLATE/generic.md`
+  - `.github/PULL_REQUEST_TEMPLATE/infra.md`
 
 ### 既存リポジトリへのテンプレート適用方法
 
